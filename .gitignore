@@ -42,10 +42,10 @@ crashlytics-build.properties
 # Visual Studio / Rider
 # =====================
 .vs/
-.vscode/
-*.csproj
+#.vscode/
+#*.csproj
 *.unityproj
-*.sln
+#*.sln
 *.suo
 *.tmp
 *.user
