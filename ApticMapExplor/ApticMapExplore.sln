@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Haply.hAPI", "Haply.hAPI.csproj", "{B17A808B-CCAB-D04E-E150-75A48B6B1FFC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-firstpass", "Assembly-CSharp-firstpass.csproj", "{13AC0728-06BA-F3A2-29FF-C6B153AD46BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{F0363551-F021-F934-E7B7-546C92C21C4D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B17A808B-CCAB-D04E-E150-75A48B6B1FFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B17A808B-CCAB-D04E-E150-75A48B6B1FFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B17A808B-CCAB-D04E-E150-75A48B6B1FFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B17A808B-CCAB-D04E-E150-75A48B6B1FFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13AC0728-06BA-F3A2-29FF-C6B153AD46BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13AC0728-06BA-F3A2-29FF-C6B153AD46BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13AC0728-06BA-F3A2-29FF-C6B153AD46BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13AC0728-06BA-F3A2-29FF-C6B153AD46BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F0363551-F021-F934-E7B7-546C92C21C4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0363551-F021-F934-E7B7-546C92C21C4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0363551-F021-F934-E7B7-546C92C21C4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0363551-F021-F934-E7B7-546C92C21C4D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
